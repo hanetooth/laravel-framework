@@ -51,7 +51,7 @@
         "illuminate/contracts": "self.version",
         "illuminate/cookie": "self.version",
         "illuminate/database": "self.version",
-        "zugoripls/openssl-encryption": "1.0",
+        "zugoripls/openssl-encryption": "1.*",
         "illuminate/events": "self.version",
         "illuminate/exception": "self.version",
         "illuminate/filesystem": "self.version",
