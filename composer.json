@@ -1,17 +1,17 @@
 {
-    "name": "laravel/framework",
-    "description": "The Laravel Framework.",
+    "name": "zugoripls/laravel-framework",
+    "description": "Customized(replaced illuminate/encryption with zugoripls/openssl-encryption) Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "homepage": "http://laravel.com",
     "support": {
-        "issues": "https://github.com/laravel/framework/issues",
-        "source": "https://github.com/laravel/framework"
+        "issues": "https://github.com/zugoriils/laravel-framework/issues",
+        "source": "https://github.com/zugoripls/laravel-framework"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+            "name": "Zugor",
+            "email": "zugoripls@gmail.com"
         }
     ],
     "require": {
